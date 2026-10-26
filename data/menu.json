@@ -1,0 +1,90 @@
+{
+  "source": "Transcribed from customer photos of the paper menu on the Google Maps listing (Aug–Oct 2026). Confirm all items and prices with the business before launch.",
+  "sections": [
+    {"id":"breakfast","tab":"Breakfast","title":"Breakfast Menu","note":"Served all day","groups":[
+      {"title":"Breakfast Bowls","note":"Served with a side of toast or baguette","style":"sage","items":[
+        {"name":"The Sunrise Bowl","star":true,"price":"14.00","desc":"Breakfast potatoes, mushroom, onion, spinach, tomatoes, green and red peppers, topped with two eggs any style."},
+        {"name":"Santa Fe Bowl","star":true,"price":"14.75","desc":"Breakfast potatoes, chorizo, corn, grilled jalapeños, onion, tomatoes, pepper jack cheese, topped with two eggs any style."},
+        {"name":"Farmers Bowl","star":true,"price":"14.75","desc":"Breakfast potatoes, onion, green and red peppers, cheddar cheese, choice of meat (chorizo, sausage or ham), topped with two eggs any style."}]},
+      {"title":"French Toast & Crepes","style":"navy","items":[
+        {"name":"Loraine Crepes","price":"14.00","desc":"Caramelized onion, bacon, and Swiss cheese sauce, and micro greens."},
+        {"name":"Spinach Crepes","price":"14.00","desc":"Spinach, onion, mushroom, cheddar cheese, roasted tomato, white garlic sauce, and micro greens."},
+        {"name":"Lemon Strawberry Crepes","price":"14.00","desc":"Lemon curd, strawberry compote, and ricotta cheese."},
+        {"name":"Berries Ricotta Crepes","price":"14.00","desc":"Caramelized pecans, mixed berries, raspberry coulis, ricotta cheese, and crème anglaise."},
+        {"name":"Lemon Blueberry French Toast","price":"14.00","desc":"Lemon cream cheese, blueberry compote and powdered sugar."},
+        {"name":"Berry Cinnamon French Toast","price":"14.00","desc":"Custard, brown sugar, cinnamon, mixed berries and crème anglaise."},
+        {"name":"Banana Pecan French Toast","price":"14.00","desc":"Caramelized pecans, banana, and crème anglaise."}]},
+      {"title":"Breakfast Scrambles","note":"Served with spring mix salad and baguette · Upgrade to breakfast potatoes for 2.50","items":[
+        {"name":"Green Eggs & Ham","price":"13.50","desc":"Whole eggs or egg whites, house-made pesto, ham, and Parmesan cheese."},
+        {"name":"Veggie Scramble","price":"12.50","desc":"Whole eggs or egg whites, spinach, mushroom, asparagus, and feta cheese."},
+        {"name":"Pancetta Scramble","price":"13.50","desc":"Whole eggs or egg whites, pancetta, green onions and Parmesan cheese."}]},
+      {"title":"Breakfast Omelettes","note":"Served with spring mix salad and baguette · Upgrade to breakfast potatoes for 2.50 · All omelettes are made with 3 whole eggs","items":[
+        {"name":"Mediterranean","price":"14.50","desc":"Whole eggs or egg whites, spinach, roasted tomato, and feta cheese."},
+        {"name":"OH! Brother","price":"14.50","desc":"Whole eggs or egg whites, ham, sautéed green and red pepper, onion and cheddar cheese."},
+        {"name":"Veggie Egg White","price":"13.50","desc":"Egg whites, mushroom, tomato, onion, green pepper, avocado and cheddar cheese."},
+        {"name":"The Morning Heist","price":"14.75","desc":"Whole eggs or egg whites, bacon, ham, sausage and Swiss cheese."},
+        {"name":"Oh!Pepper Omelette","price":"14.50","desc":"Whole eggs or egg whites, roasted red pepper, sautéed onions, avocado, Swiss cheese, topped with romesco.","allergen":"Contains almonds"},
+        {"name":"Salmon Omelette","price":"16.00","desc":"Whole eggs or egg whites, cured salmon, cream cheese, chives, fresh tomatoes, and red onions."}]}
+    ]},
+    {"id":"entrees","tab":"Morning Entrées","title":"Morning Entrées","note":"Served with spring mix salad · Upgrade to breakfast potatoes for 2.50","groups":[
+      {"title":"Morning Entrées","style":"sage","items":[
+        {"name":"Breakfast Tacos","price":"14.50","desc":"Scrambled eggs, chorizo, tomatoes, red onion, cilantro, salsa verde and feta cheese."},
+        {"name":"Breakfast Sandwich","price":"14.00","desc":"Croissant, scrambled eggs, bacon, cheddar cheese."},
+        {"name":"Benji's Eggs","star":true,"price":"14.50","desc":"Parmesan sauce, poached eggs, cremini mushrooms, sautéed asparagus, fried leeks, truffle oil."},
+        {"name":"Huevos Rancheros","star":true,"price":"14.50","desc":"Tortillas, pinto beans, queso fresco, pico de gallo, salsa verde, topped with two eggs any style."},
+        {"name":"Spinach & Mushroom Benedict","star":true,"price":"14.00","desc":"English muffin, sautéed spinach & mushrooms, chives, béarnaise sauce, and poached eggs."},
+        {"name":"Porridge","price":"9.00","desc":"Oats, brown sugar and fresh berries."},
+        {"name":"Ham & Asparagus Benedict","star":true,"price":"14.00","desc":"English muffin, asparagus, béarnaise sauce, ham, chives and poached eggs."},
+        {"name":"Salmon & Asparagus Benedict","star":true,"price":"16.00","desc":"English muffin, asparagus, béarnaise sauce, cured salmon, tomato, chives and poached eggs."}]},
+      {"title":"Avocado Toast","note":"Served with spring mix salad and baguette · Upgrade to breakfast potatoes for 2.50 · Add two eggs any style for 2.00","style":"terracotta","items":[
+        {"name":"Salmon Avocado Toast","price":"16.00","desc":"Multigrain toast, dill cream cheese, cured salmon, cucumber slices, pickled red onions, frisée leaves, fresh dill, micro greens, and avocado."},
+        {"name":"Mushroom Avocado Toast","price":"14.75","desc":"Multigrain toast, portobello mushroom, fresh mozzarella, arugula, pomegranate seeds, fried leeks, balsamic glaze, micro greens and avocado."},
+        {"name":"Chorizo Avocado Toast","price":"14.75","desc":"Multigrain toast, whipped feta cheese, roasted tomatoes, red onion, frisée leaves, micro cilantro, chorizo and avocado."}]},
+      {"title":"Quiche","note":"Served with spring mix salad and baguette · Upgrade to breakfast potatoes for 2.50","style":"terracotta","items":[
+        {"name":"Veggie Quiche","price":"13.00","desc":"Ask your server for the quiche of the day."},
+        {"name":"Meat Quiche","price":"13.00","desc":"Ask your server for the quiche of the day."}]}
+    ]},
+    {"id":"lunch","tab":"Lunch","title":"Lunch Menu","note":"Served all day","groups":[
+      {"title":"Lunch Sandwiches","note":"Served with spring mix salad and baguette · Upgrade to breakfast potatoes for 2.50","style":"sage","items":[
+        {"name":"Chicken Sandwich","price":"15.00","desc":"Cabbage slaw, pickles, fried potato, honey Cajun sauce on a brioche bun."},
+        {"name":"French Dip","price":"15.00","desc":"Roast beef, caramelized onions, provolone cheese, au jus, on sourdough."},
+        {"name":"Reuben or Rachel","price":"15.00","desc":"Reuben with corned beef, or Rachel with turkey breast. Swiss cheese, sauerkraut, Thousand Island dressing, on rye bread."},
+        {"name":"Prosciutto Sandwich","price":"15.00","desc":"Fig jam, prosciutto, arugula, mozzarella cheese on a baguette."},
+        {"name":"Grilled Cheese","price":"14.75","desc":"Pesto, tomato, onion and avocado."}]},
+      {"title":"Burgers","note":"Served with spring mix salad and baguette · Upgrade to breakfast potatoes for 2.50","style":"terracotta","items":[
+        {"name":"House Burger","price":"16.00","desc":"Tomato, cheddar cheese, house sauce."},
+        {"name":"Jalapeño Burger","price":"16.00","desc":"Bacon, Swiss cheese, sweet & spicy jam."},
+        {"name":"Hangover Burger","price":"16.00","desc":"Topped with hash browns, fried egg, bacon, pepper jack cheese, and chipotle aioli."}]},
+      {"title":"Salads","style":"navy","items":[
+        {"name":"Very Berry Salad","price":"9.00","desc":"Spring mix, mixed berries, raspberry coulis, caramelized pecans, chèvre cheese."},
+        {"name":"Spinach Salad","price":"9.00","desc":"Spinach, red onions, grape tomatoes, warm bacon dressing and roasted walnuts."},
+        {"name":"House Salad","price":"9.00","desc":"Spring mix, walnuts, cherries, house dressing and Parmesan cheese."},
+        {"name":"Buddha Bowl","price":"14.00","desc":"Quinoa, chickpeas, avocado, sweet potato, spinach, sunflower seeds, tahini dressing and micro greens."}],
+        "footer":"Add chicken 4.00 · Add salmon 6.00"},
+      {"title":"Soup","note":"Served with choice of toast or baguette","items":[
+        {"name":"Soup of the Day — Bowl","price":"7.00","desc":"Ask your server for the soup of the day."}]}
+    ]},
+    {"id":"kids","tab":"Kids","title":"Children's Corner","groups":[
+      {"title":"Children's Corner","style":"terracotta","items":[
+        {"name":"Kids Scramble Eggs","price":"6.00","desc":"Two scrambled eggs served with a side of berries."},
+        {"name":"Kids French Toast","price":"6.00","desc":"Served with a side of berries and crème anglaise."},
+        {"name":"Peanut Butter & Jelly","price":"6.00","desc":"Served with a side of berries."},
+        {"name":"Kids Grilled Cheese","price":"6.00","desc":"Served with a choice of berries or French fries."},
+        {"name":"Kids Banana Nutella Crepes","price":"6.00","desc":"Served with crème anglaise."}]}
+    ]},
+    {"id":"drinks","tab":"Coffee, Drinks & Sides","title":"Coffee, Drinks & Sides","groups":[
+      {"title":"Espresso Bar","note":"From the chalkboard (photo, Sep 2026)","style":"chalk","items":[
+        {"name":"Espresso","price":"2.00"},{"name":"Americano","price":"4.00"},{"name":"Cappuccino","price":"5.00"},
+        {"name":"Latte","price":"5.00"},{"name":"Mocha","price":"5.75"},{"name":"White Mocha","price":"5.75"},
+        {"name":"Miel","price":"5.75"},{"name":"Chai","price":"5.00"},{"name":"Coffee","price":"3.25"}]},
+      {"title":"Juices & Mimosa","style":"chalk","items":[
+        {"name":"Juice: orange, apple, mango or cranberry","price":"[PLACEHOLDER - confirm with business]"},
+        {"name":"Mimosa","price":"7.00"}]},
+      {"title":"Sides","items":[
+        {"name":"Bacon","price":"5.00"},{"name":"Sausage Patties","price":"5.00"},
+        {"name":"Side of Mixed Berries","price":"5.00"},{"name":"Breakfast Potatoes","price":"4.00"}]}
+    ]}
+  ],
+  "bakery": ["Morning Bun","Cinnamon Roll","Bear Claw","Chocolate Croissant","Danish (blueberry or cream cheese)","Scone","Butter Croissant","Cookies (chocolate chip, oatmeal raisin, peanut butter)"],
+  "advisory": "* Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions."
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oh-brothers.vercel.app/sitemap.xml
