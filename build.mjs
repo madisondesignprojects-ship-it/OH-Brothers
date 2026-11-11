@@ -32,6 +32,7 @@ const jsonld = {
   address: { "@type": "PostalAddress", streetAddress: "121 E Main St", addressLocality: "Stoughton", addressRegion: "WI", postalCode: "53589", addressCountry: "US" },
   geo: { "@type": "GeoCoordinates", latitude: 42.9165456, longitude: -89.2200791 },
   telephone: "+16084807001",
+  email: "OHBrothers2026@outlook.com",
   openingHoursSpecification: [{ "@type": "OpeningHoursSpecification", dayOfWeek: ["Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"], opens: "07:00", closes: "15:00" }],
   servesCuisine: ["Breakfast", "Brunch", "American", "Crepes", "Bakery"], priceRange: "$$", hasMenu: SITE_URL + "/#menu",
   sameAs: ["https://www.instagram.com/ohbrother.stoughton/"],

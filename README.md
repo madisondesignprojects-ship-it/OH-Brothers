@@ -6,6 +6,7 @@ It follows the build script at `/workspace/oh-brothers/build-script.md` (lean sa
 - **Build:** `node build.mjs`. This renders `data/menu.json` into `index.html`. Node 18+, no dependencies.
 - **Preview:** `python3 -m http.server 8765` and open http://127.0.0.1:8765
 - **Phone:** (608) 480-7001 (`SITE.phone` in `assets/site.js` is `+16084807001`). Every Call button is a `tel:+16084807001` link.
+- **Email:** OHBrothers2026@outlook.com. The Visit section and footer link this with `mailto:OHBrothers2026@outlook.com`.
 - **Placeholders:** each one shows as a yellow `[PLACEHOLDER - confirm with business]` tag. Search for `PLACEHOLDER` to find them.
 - **Photos:** these are customer uploads from the Google Maps listing (Aug–Oct 2026), for the pitch/preview only. Get permission or replace them before a public launch.
 - **Menu:** transcribed from photos of the paper menu (Aug–Oct 2026). Confirm all prices.
